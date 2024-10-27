@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912547198814",
+    "project_id": "fakestore-d8ae2",
+    "storage_bucket": "fakestore-d8ae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912547198814:android:376d574bb4ad53dcee81cf",
+        "android_client_info": {
+          "package_name": "com.sreejith.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw0GCPj0zUBnSay8zMRoAOHzlf5z06yLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
